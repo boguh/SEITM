@@ -1,10 +1,10 @@
 # SEITM
-TIPE project - y2021/2022
+TIPE project - y2021/2022 - in collaboration with J. Racki and T.Marques
 
 
 How to download :
 
-  1/ Download .zip file
+  1/ Download from GitHub via 'Code' button on the top of the repository
 
   2/ Unzip on your desktop the file named 'SEITM_vX' where X si the version of the program
 

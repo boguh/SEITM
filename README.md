@@ -6,9 +6,11 @@ How to download :
 
   1/ Download from GitHub via 'Download ZIP' from the 'Code' button on the top of the repository
 
-  2/ Unzip a frist time on your desktop then a second time the file named 'SEITM_vX' where X si the version of the program
+  2/ Unzip a frist time on your desktop the file 'SEITM-main'
+  
+  3/ Unzip a second time the file named 'SEITM_vX' where X si the version of the program
 
-  3/ The file is ready to use
+  4/ The file is ready to use
 
 
 How to use it :
